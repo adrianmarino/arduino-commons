@@ -1,0 +1,13 @@
+{
+    "name": "Arduino Commons",
+    "version": "0.0.1",
+    "description": "Common tools",
+    "keywords": "arduino, tools",
+    "authors": {
+        "name": "Adrian Norberto Marino",
+        "url": "https://github.com/adrianmarino"
+    },
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+}
